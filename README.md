@@ -5,7 +5,7 @@ Using SQLAlchemy and Flask to create a Hawaii weather database for 2016-2017.
 
 This repository uses SQLAlchemy to filter temperature and precipitation data from Hawaii weather stations. Selecting the final years worth of data (8-2016 to 8-2017), it adds that data to a pandas data frame and plots the years worth of precipitation data with Matplotlib. 
 
-https://github.com/jshapi16/sqlalchemy-challenge/blob/main/Images/year_precip_data.png?raw=true![image](https://user-images.githubusercontent.com/79419060/122600123-30bc9f00-d024-11eb-8762-c3f26dae2ca8.png)
+![image](https://user-images.githubusercontent.com/79419060/122600188-44680580-d024-11eb-955f-3190bb08502b.png)
 
 
 In addition, for the station with the most number of records (filter the station by count), it gives average temperature data including min and max temperature data for the station with the most records. 
