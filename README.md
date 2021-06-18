@@ -7,8 +7,10 @@ This repository uses SQLAlchemy to filter temperature and precipitation data fro
 
 ![image](https://user-images.githubusercontent.com/79419060/122600188-44680580-d024-11eb-955f-3190bb08502b.png)
 
-
 In addition, for the station with the most number of records (filter the station by count), it gives average temperature data including min and max temperature data for the station with the most records. 
+
+![image](https://user-images.githubusercontent.com/79419060/122600225-534eb800-d024-11eb-9da5-7fe0b7bc0a02.png)
+
 
 # Flask
 The last part of this project jsonifies the SQLAlchemy data and creates a Flask app so anyone could pull the needed data for future use. 
